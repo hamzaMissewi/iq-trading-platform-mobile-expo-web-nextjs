@@ -1,0 +1,1 @@
+if(typeof window<"u"){const n={NEXT_PUBLIC_CREATE_API_BASE_URL:"",NEXT_PUBLIC_CREATE_BASE_URL:""};globalThis.process??={};const o=globalThis.process.env??{};globalThis.process.env=new Proxy(Object.assign({},n,o),{get(e,s){return s in e?e[s]:void 0},has(){return!0}})}

@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_Vu4lGmsGzWxAkBN7LBnkpuw57Lne",
+  "orgId": "team_rmskAfUTIhFowcsJVr5QQrY5",
+  "projectName": "hamza-crypto-pocket-option",
+  "settings": {
+    "createdAt": 1768163582556,
+    "framework": "react-router",
+    "devCommand": null,
+    "installCommand": "npm i --legacy-peer-deps",
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
