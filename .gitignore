@@ -38,3 +38,5 @@ e2b.*.local.toml
 
 **/.react-router
 apps/mobile/caches/*
+
+**/*copy*
